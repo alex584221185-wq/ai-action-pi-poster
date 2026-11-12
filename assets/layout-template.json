@@ -1,0 +1,823 @@
+{
+  "canvas": {
+    "width": 809,
+    "height": 2037,
+    "color": "#101210"
+  },
+  "outputWidth": 2160,
+  "output": "海报_高清2160.png",
+  "layers": [
+    {
+      "type": "image",
+      "path": "background.png",
+      "rect": [
+        0,
+        0,
+        809,
+        2037
+      ],
+      "fit": "cover"
+    },
+    {
+      "type": "image",
+      "path": "logo.png",
+      "rect": [
+        43,
+        13,
+        98,
+        98
+      ],
+      "fit": "contain"
+    },
+    {
+      "type": "text",
+      "text": "{{event_series}}",
+      "rect": [
+        455,
+        43,
+        314,
+        44
+      ],
+      "size": 23,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        38,
+        444,
+        395,
+        210
+      ],
+      "radius": 18,
+      "stroke": "#177B62",
+      "strokeWidth": 0.9
+    },
+    {
+      "type": "image",
+      "path": "portrait.png",
+      "rect": [
+        403,
+        113,
+        387,
+        560
+      ],
+      "fit": "contain"
+    },
+    {
+      "type": "text",
+      "text": "{{title_line_1}}",
+      "rect": [
+        49,
+        113,
+        352,
+        130
+      ],
+      "size": 86,
+      "font": "PingFangSC-Semibold",
+      "color": "#BDFE32",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{title_line_2}}",
+      "rect": [
+        49,
+        219,
+        410,
+        130
+      ],
+      "size": 86,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{subtitle_line_1}}",
+      "rect": [
+        50,
+        320,
+        355,
+        44
+      ],
+      "size": 27,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{subtitle_line_2}}",
+      "rect": [
+        50,
+        360,
+        355,
+        44
+      ],
+      "size": 27,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{focus_line}}",
+      "rect": [
+        50,
+        405,
+        364,
+        30
+      ],
+      "size": 18,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{speaker_label}}",
+      "rect": [
+        66,
+        457,
+        140,
+        33
+      ],
+      "size": 20,
+      "font": "PingFangSC-Semibold",
+      "color": "#BDFE32",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{speaker_name}}",
+      "rect": [
+        65,
+        487,
+        310,
+        77
+      ],
+      "size": 55,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{speaker_bio}}",
+      "rect": [
+        66,
+        556,
+        310,
+        91
+      ],
+      "size": 19,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        46,
+        705,
+        9,
+        41
+      ],
+      "radius": 0,
+      "fill": "#BDFE32"
+    },
+    {
+      "type": "text",
+      "text": "{{content_heading}}",
+      "rect": [
+        79,
+        697,
+        690,
+        64
+      ],
+      "size": 37,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        41,
+        764,
+        357,
+        84
+      ],
+      "radius": 12,
+      "stroke": "#177B62",
+      "strokeWidth": 0.9
+    },
+    {
+      "type": "text",
+      "text": "01",
+      "rect": [
+        61,
+        772,
+        58,
+        52
+      ],
+      "font": "Arial-BoldMT",
+      "size": 36,
+      "color": "#BDFE32"
+    },
+    {
+      "type": "text",
+      "text": "{{content_1_title}}",
+      "rect": [
+        131,
+        771,
+        253,
+        43
+      ],
+      "size": 28,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{content_1_detail}}",
+      "rect": [
+        131,
+        811,
+        249,
+        36
+      ],
+      "size": 17,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        411,
+        764,
+        357,
+        84
+      ],
+      "radius": 12,
+      "stroke": "#177B62",
+      "strokeWidth": 0.9
+    },
+    {
+      "type": "text",
+      "text": "02",
+      "rect": [
+        431,
+        772,
+        58,
+        52
+      ],
+      "font": "Arial-BoldMT",
+      "size": 36,
+      "color": "#BDFE32"
+    },
+    {
+      "type": "text",
+      "text": "{{content_2_title}}",
+      "rect": [
+        501,
+        771,
+        253,
+        43
+      ],
+      "size": 28,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{content_2_detail}}",
+      "rect": [
+        501,
+        811,
+        249,
+        36
+      ],
+      "size": 17,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        41,
+        859,
+        357,
+        96
+      ],
+      "radius": 12,
+      "stroke": "#177B62",
+      "strokeWidth": 0.9
+    },
+    {
+      "type": "text",
+      "text": "03",
+      "rect": [
+        61,
+        867,
+        58,
+        52
+      ],
+      "font": "Arial-BoldMT",
+      "size": 36,
+      "color": "#BDFE32"
+    },
+    {
+      "type": "text",
+      "text": "{{content_3_title}}",
+      "rect": [
+        131,
+        866,
+        253,
+        43
+      ],
+      "size": 28,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{content_3_detail}}",
+      "rect": [
+        131,
+        906,
+        249,
+        48
+      ],
+      "size": 17,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        411,
+        859,
+        357,
+        96
+      ],
+      "radius": 12,
+      "stroke": "#177B62",
+      "strokeWidth": 0.9
+    },
+    {
+      "type": "text",
+      "text": "04",
+      "rect": [
+        431,
+        867,
+        58,
+        52
+      ],
+      "font": "Arial-BoldMT",
+      "size": 36,
+      "color": "#BDFE32"
+    },
+    {
+      "type": "text",
+      "text": "{{content_4_title}}",
+      "rect": [
+        501,
+        866,
+        253,
+        43
+      ],
+      "size": 25,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{content_4_detail}}",
+      "rect": [
+        501,
+        906,
+        249,
+        48
+      ],
+      "size": 16,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        41,
+        969,
+        727,
+        83
+      ],
+      "radius": 12,
+      "stroke": "#177B62",
+      "strokeWidth": 0.9
+    },
+    {
+      "type": "text",
+      "text": "05",
+      "rect": [
+        61,
+        977,
+        58,
+        52
+      ],
+      "font": "Arial-BoldMT",
+      "size": 36,
+      "color": "#BDFE32"
+    },
+    {
+      "type": "text",
+      "text": "{{content_5_title}}",
+      "rect": [
+        131,
+        976,
+        623,
+        43
+      ],
+      "size": 28,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{content_5_detail}}",
+      "rect": [
+        131,
+        1016,
+        619,
+        35
+      ],
+      "size": 17,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        51,
+        1099,
+        9,
+        40
+      ],
+      "radius": 0,
+      "fill": "#BDFE32"
+    },
+    {
+      "type": "text",
+      "text": "{{benefits_heading}}",
+      "rect": [
+        79,
+        1088,
+        690,
+        66
+      ],
+      "size": 37,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        71,
+        1160,
+        6,
+        66
+      ],
+      "radius": 0,
+      "fill": "#BDFE32"
+    },
+    {
+      "type": "text",
+      "text": "{{benefit_1_title}}",
+      "rect": [
+        104,
+        1151,
+        650,
+        53
+      ],
+      "size": 33,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{benefit_1_detail}}",
+      "rect": [
+        104,
+        1199,
+        650,
+        44
+      ],
+      "size": 23,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        71,
+        1252,
+        6,
+        66
+      ],
+      "radius": 0,
+      "fill": "#BDFE32"
+    },
+    {
+      "type": "text",
+      "text": "{{benefit_2_title}}",
+      "rect": [
+        104,
+        1243,
+        650,
+        53
+      ],
+      "size": 33,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{benefit_2_detail}}",
+      "rect": [
+        104,
+        1291,
+        650,
+        44
+      ],
+      "size": 23,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        71,
+        1344,
+        6,
+        66
+      ],
+      "radius": 0,
+      "fill": "#BDFE32"
+    },
+    {
+      "type": "text",
+      "text": "{{benefit_3_title}}",
+      "rect": [
+        104,
+        1335,
+        650,
+        53
+      ],
+      "size": 33,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{benefit_3_detail}}",
+      "rect": [
+        104,
+        1383,
+        650,
+        44
+      ],
+      "size": 23,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        38,
+        1442,
+        736,
+        104
+      ],
+      "radius": 17,
+      "stroke": "#177B62",
+      "strokeWidth": 0.9
+    },
+    {
+      "type": "text",
+      "text": "{{audience_line}}",
+      "rect": [
+        65,
+        1449,
+        681,
+        46
+      ],
+      "size": 27,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "center"
+    },
+    {
+      "type": "text",
+      "text": "{{participation_line}}",
+      "rect": [
+        65,
+        1498,
+        681,
+        39
+      ],
+      "size": 22,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "center"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        38,
+        1573,
+        736,
+        287
+      ],
+      "radius": 17,
+      "stroke": "#177B62",
+      "strokeWidth": 0.9
+    },
+    {
+      "type": "text",
+      "text": "{{fee_line}}",
+      "rect": [
+        65,
+        1594,
+        190,
+        56
+      ],
+      "size": 33,
+      "font": "PingFangSC-Semibold",
+      "color": "#BDFE32",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{refund_line}}",
+      "rect": [
+        271,
+        1599,
+        238,
+        49
+      ],
+      "size": 26,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        258,
+        1604,
+        1,
+        34
+      ],
+      "radius": 0,
+      "fill": "#F1F2EC"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        67,
+        1653,
+        438,
+        1
+      ],
+      "radius": 0,
+      "fill": "#177B62"
+    },
+    {
+      "type": "text",
+      "text": "{{date_time}}",
+      "rect": [
+        65,
+        1671,
+        446,
+        46
+      ],
+      "size": 23,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{checkin_time}}",
+      "rect": [
+        65,
+        1710,
+        446,
+        45
+      ],
+      "size": 23,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "text",
+      "text": "{{address}}",
+      "rect": [
+        65,
+        1763,
+        446,
+        78
+      ],
+      "size": 26,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "left"
+    },
+    {
+      "type": "rect",
+      "rect": [
+        525,
+        1598,
+        1,
+        243
+      ],
+      "radius": 0,
+      "fill": "#177B62"
+    },
+    {
+      "type": "image",
+      "path": "qr.png",
+      "rect": [
+        551,
+        1590,
+        194,
+        185
+      ],
+      "fit": "contain",
+      "interpolation": "nearest"
+    },
+    {
+      "type": "text",
+      "text": "{{registration_label}}",
+      "rect": [
+        550,
+        1779,
+        196,
+        45
+      ],
+      "size": 26,
+      "font": "PingFangSC-Semibold",
+      "color": "#F1F2EC",
+      "alignment": "center"
+    },
+    {
+      "type": "text",
+      "text": "{{capacity_line}}",
+      "rect": [
+        542,
+        1821,
+        212,
+        36
+      ],
+      "size": 20,
+      "font": "PingFangSC-Semibold",
+      "color": "#BDFE32",
+      "alignment": "center"
+    },
+    {
+      "type": "text",
+      "text": "和AI一起，做自己的生意，过想要的生活。",
+      "rect": [
+        65,
+        1880,
+        679,
+        53
+      ],
+      "size": 22,
+      "font": "PingFangSC-Regular",
+      "color": "#F1F2EC",
+      "alignment": "center"
+    }
+  ]
+}

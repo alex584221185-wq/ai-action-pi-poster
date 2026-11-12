@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI行动π沙龙海报"
+  short_description: "复用AI行动π品牌风格，快速生成高清沙龙海报与朋友圈短图"
+  default_prompt: "使用 $ai-action-pi-poster，根据本期活动资料制作AI行动π高清海报和朋友圈短图。"
